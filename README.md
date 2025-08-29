@@ -1,4 +1,4 @@
-# 🚀 Meu Java Design Patterns
+# 🚀 Java Design Patterns
 
 Este repositório contém exemplos práticos de **Design Patterns em Java**, implementados e organizados por mim para estudo e prática de Programação Orientada a Objetos.
 
