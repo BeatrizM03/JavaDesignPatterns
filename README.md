@@ -1,16 +1,25 @@
-# Desafio DIO: Design Patterns com Spring Framework
+# 🚀 Meu Java Design Patterns
 
-Desafio realizado com o ojetivo de aplicar o conceito de Padrões de Projeto na prática, implementando soluções que utilizem os padrões clássicos do GoF e as abstrações fornecidas pelo Spring Framework.
+Este repositório contém exemplos práticos de **Design Patterns em Java**, implementados e organizados por mim para estudo e prática de Programação Orientada a Objetos.
 
-Padrões utilizados:
+---
 
-- Singleton
-- Strategy/Repository
-- Facade
+## 📚 O que tem neste projeto?
 
-##
+- ✅ Exemplos dos principais padrões de projeto (Design Patterns)  
+- ✅ Código limpo e comentado  
+- ✅ Estrutura organizada com pacotes separados  
 
-<h3>💻 Tecnologias</h3>
+---
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+## 🛠️ Tecnologias usadas
+
+- Java 17+  
+- IntelliJ IDEA (IDE principal)  
+- Git & GitHub  
+
+---
+
+## 👩‍💻 Autoria
+
+Projeto mantido por **Beatriz Vitória ([@BeatrizM03](https://github.com/BeatrizM03))** ✨  
